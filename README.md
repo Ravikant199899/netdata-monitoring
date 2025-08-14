@@ -6,7 +6,7 @@ Netdata provides a beautiful web-based dashboard for system performance monitori
 
 🛠 Tools & Technologies
 
-AWS EC2 – Ubuntu 22.04 LTS instance
+AWS EC2 – 24.04 LTS (HVM) instance
 
 Docker – Container runtime to run Netdata
 
